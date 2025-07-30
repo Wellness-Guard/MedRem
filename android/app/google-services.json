@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846044487947",
+    "project_id": "wellness-guard-mobile-app",
+    "storage_bucket": "wellness-guard-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846044487947:android:78d1081459fa6a7cc9c20e",
+        "android_client_info": {
+          "package_name": "com.medrem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDG9YNiuAasxRJgCIAfxeyEnW0wsX2F4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
