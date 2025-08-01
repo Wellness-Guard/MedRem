@@ -1,3 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -58,6 +62,10 @@ Now that you have successfully run the app, let's modify it.
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
+
+📌 Disclaimer:
+This project stores medicine-related data only (e.g., drug names, categories, dosages) and does not handle or store any personally identifiable information or Protected Health Information (PHI). As such, this software is not subject to HIPAA compliance requirements.
+
 
 ### Now what?
 

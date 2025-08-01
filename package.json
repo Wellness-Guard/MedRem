@@ -2,6 +2,11 @@
   "name": "MedRem",
   "version": "0.0.1",
   "private": true,
+  "license":"MIT",
+  "author":{
+    "name":"Muhammad Khurram Raza",
+    "url":"https://linkedin.com/in/mkhurramraza"
+  },
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -84,5 +89,6 @@
   },
   "engines": {
     "node": ">=16"
-  }
+  },
+  "signature": "Developed with ❤️ by Muhammad Khurram Raza"
 }
